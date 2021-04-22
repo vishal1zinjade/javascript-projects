@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.section {
+  text-align: center;
+  height: 100vh;
+  margin: 250px auto;
+}
+.btn-container {
+  margin-top: 25px;
+}
+.btn {
+  font-size: large;
+  width: 100px;
+  padding: 0.6rem;
+  text-transform: capitalize;
+  background: black;
+  color: white;
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+#value {
+  font-size: 4rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
